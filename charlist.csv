@@ -1,0 +1,827 @@
+id,key,no_ep
+1,Rick Sanchez,51
+2,Morty Smith,51
+3,Summer Smith,42
+4,Beth Smith,42
+5,Jerry Smith,39
+6,Abadango Cluster Princess,1
+7,Abradolf Lincler,2
+8,Adjudicator Rick,1
+9,Agency Director,1
+10,Alan Rails,1
+11,Albert Einstein,1
+12,Alexander,1
+13,Alien Googah,1
+14,Alien Morty,1
+15,Alien Rick,1
+16,Amish Cyborg,1
+17,Annie,1
+18,Antenna Morty,2
+19,Antenna Rick,1
+20,Ants in my Eyes Johnson,1
+21,Aqua Morty,2
+22,Aqua Rick,3
+23,Arcade Alien,5
+24,Armagheadon,1
+25,Armothy,1
+26,Arthricia,1
+27,Artist Morty,2
+28,Attila Starwar,3
+29,Baby Legs,1
+30,Baby Poopybutthole,1
+31,Baby Wizard,1
+32,Bearded Lady,1
+33,Beebo,1
+34,Benjamin,3
+35,Bepisian,4
+36,Beta-Seven,1
+37,Beth Sanchez,1
+38,Beth Smith,8
+39,Beth Smith,1
+40,Beth's Mytholog,1
+41,Big Boobed Waitress,1
+42,Big Head Morty,1
+43,Big Morty,1
+44,Body Guard Morty,1
+45,Bill,1
+46,Bill,1
+47,Birdperson,7
+48,Black Rick,2
+49,Blamph,1
+50,Blim Blam,1
+51,Blue Diplomat,1
+52,Blue Footprint Guy,1
+53,Blue Shirt Morty,1
+54,Bobby Moynihan,1
+55,Boobloosian,2
+56,Bootleg Portal Chemist Rick,1
+57,Borpocian,1
+58,Brad,4
+59,Brad Anderson,1
+60,Calypso,1
+61,Campaign Manager Morty,1
+62,Canklanker Thom,1
+63,Centaur,1
+64,Chris,1
+65,Chris,1
+66,Coach Feratu (Balik Alistane),1
+67,Collector,1
+68,Colossus,1
+69,Commander Rick,1
+70,Concerto,1
+71,Conroy,1
+72,Cool Rick,1
+73,Cop Morty,1
+74,Cop Rick,1
+75,Courier Flap,1
+76,Cousin Nicky,1
+77,Cowboy Morty,1
+78,Cowboy Rick,2
+79,Crab Spider,1
+80,Creepy Little Girl,1
+81,Crocubot,1
+82,Cronenberg Rick,2
+83,Cronenberg Morty,2
+84,Cult Leader Morty,1
+85,Cyclops Morty,2
+86,Cyclops Rick,3
+87,Cynthia,1
+88,Cynthia,4
+89,Dale,1
+90,Daron Jefferson,1
+91,David Letterman,1
+92,Davin,2
+93,Diablo Verde,1
+94,Diane Sanchez,2
+95,Dipper and Mabel Mortys,1
+96,Tuberculosis,1
+97,Gonorrhea,1
+98,Hepatitis A,1
+99,Hepatitis C,1
+100,Bubonic Plague,1
+101,E. Coli,1
+102,Donna Gueterman,1
+103,Doofus Rick,2
+104,Doom-Nomitron,1
+105,Dr. Glip-Glop,1
+106,Dr. Schmidt,1
+107,Dr. Wong,2
+108,Dr. Xenon Bloom,1
+109,Duck With Muscles,1
+110,Eli,1
+111,Eli's Girlfriend,1
+112,Eric McMan,1
+113,Eric Stoltz Mask Morty,1
+114,Ethan,1
+115,Ethan,2
+116,Evil Beth Clone,1
+117,Evil Jerry Clone,1
+118,Evil Morty,3
+119,Evil Rick,1
+120,Evil Summer Clone,1
+121,Eyehole Man,1
+122,Fart,1
+123,Fat Morty,1
+124,Father Bob,2
+125,Flansian,3
+126,Fleeb,1
+127,Frank Palicky,1
+128,Frankenstein's Monster,1
+129,Fulgora,3
+130,Galactic Federation President,1
+131,Gar Gloonch,3
+132,Gar's Mytholog,1
+133,Garblovian,3
+134,Garmanarnar,1
+135,Garment District Rick,1
+136,Gazorpazorpfield,2
+137,Gene,2
+138,General Nathan,1
+139,General Store Owner,1
+140,Genital Washer,1
+141,Ghost in a Jar,1
+142,Gibble Snake,1
+143,Glasses Morty,1
+144,Glenn,1
+145,Glenn,1
+146,Glexo Slim Slom,1
+147,Gobo,1
+148,Goddess Beth,1
+149,Gordon Lunas,1
+150,Cornvelious Daniel,1
+151,Gwendolyn,1
+152,Hammerhead Morty,2
+153,Hamster In Butt,2
+154,Hamurai,1
+155,Harold,1
+156,Hemorrhage,1
+157,Hole in the Wall Where the Men Can See it All,1
+158,Hookah Alien,1
+159,Hunter,1
+160,Hunter's Father,1
+161,Hydrogen-F,1
+162,Ice-T,1
+163,Ideal Jerry,1
+164,Insurance Rick,1
+165,Investigator Rick,1
+166,Invisi-trooper,1
+167,Izzy,1
+168,Jackie,1
+169,Jacob,2
+170,Jacqueline,1
+171,Jaguar,1
+172,Jamey,1
+173,Jan-Michael Vincent,1
+174,Jerry 5-126,1
+175,Jerry Smith,7
+176,Celebrity Jerry,1
+177,Jerry Smith,1
+178,Jerry's Mytholog,1
+179,Jessica,3
+180,Jessica,12
+181,Jessica's Friend,8
+182,Jim,1
+183,Johnny Depp,1
+184,Jon,1
+185,Joseph Eli Lipkip,1
+186,Joyce Smith,1
+187,Juggling Rick,1
+188,Karen Entity,1
+189,Katarina,1
+190,Keara,1
+191,Kevin,1
+192,King Flippy Nips,1
+193,King Jellybean,1
+194,Kozbian,1
+195,Kristen Stewart,1
+196,Krombopulos Michael,1
+197,Kyle,1
+198,Lady Katana,1
+199,Larva Alien,3
+200,Lawyer Morty,1
+201,Leonard Smith,1
+202,Lighthouse Keeper,1
+203,Lil B,2
+204,Lisa,1
+205,Little Dipper,1
+206,Lizard Morty,1
+207,Loggins,3
+208,Logic,1
+209,Long Sleeved Morty,1
+210,Lucy,1
+211,Ma-Sha,1
+212,Magma-Q,1
+213,Magnesium-J,1
+214,Man Painted Silver Who Makes Robot Noises,1
+215,Maximums Rickimus,3
+216,MC Haps,3
+217,Mechanical Morty,1
+218,Mechanical Rick,1
+219,Mechanical Summer,1
+220,Mega Fruit Farmer Rick,1
+221,Melissa,1
+222,Michael Denny and the Denny Singers,1
+223,Michael Jenkins,1
+224,Michael McLick,1
+225,Michael Thompson,1
+226,Million Ants,1
+227,Mitch,1
+228,Mohawk Guy,1
+229,Morty Mart Manager Morty,1
+230,Morty Jr.,1
+231,Morty Rick,1
+232,Morty Smith,1
+233,Morty K-22,1
+234,Morty Smith,1
+235,Mortytown Loco,1
+236,Mr. Beauregard,1
+237,Mr. Benson,1
+238,Mr. Booby Buyer,1
+239,Mr. Goldenfold,4
+240,Mr. Goldenfold,10
+241,Mr. Marklovitz,2
+242,Mr. Meeseeks,5
+243,Mr. Needful,1
+244,Mr. Poopybutthole,7
+245,Mrs. Lipkip,1
+246,Mrs. Pancakes,2
+247,Amy Poopybutthole,1
+248,Mrs. Refrigerator,1
+249,Mrs. Sanchez,4
+250,Mrs. Sullivan,1
+251,Nancy,6
+252,Noob-Noob,1
+253,Numbericon,1
+254,Octopus Man,1
+255,Orthodox Jew,1
+256,Pat Gueterman,1
+257,Paul Fleishman,1
+258,Pawnshop Clerk,1
+259,Pencilvester,1
+260,Phillip Jacobs,1
+261,Photography Cyborg,1
+262,Photography Raptor,1
+263,Pibbles Bodyguard,1
+264,Pichael Thompson,1
+265,Pickle Rick,1
+266,Piece of Toast,2
+267,Plumber Rick,1
+268,Poncho,1
+269,Presidentress of The Mega Gargantuans,1
+270,Prince Nebulon,1
+271,Principal Vagina,3
+272,Principal Vagina,6
+273,Purge Planet Ruler,1
+274,Quantum Rick,3
+275,Randy Dicknose,1
+276,Rat Boss,1
+277,Real Fake Doors Salesman,1
+278,Regional Manager Rick,1
+279,Regular Legs,1
+280,Reverse Giraffe,1
+281,Reverse Rick Outrage,1
+282,Revolio Clockberg Jr.,3
+283,Rick D. Sanchez III,1
+284,Rick Guilt Rick,1
+285,Rick Prime,2
+286,Rick D-99,1
+287,Rick D716,1
+288,Rick D716-B,1
+289,Rick D716-C,1
+290,Rick Sanchez,1
+291,Rick J-22,1
+292,Rick K-22,1
+293,Rick Sanchez,1
+294,Ricktiminus Sancheziminius,3
+295,Riq IV,3
+296,Risotto Groupon,1
+297,Risotto's Tentacled Henchman,1
+298,Robot Morty,1
+299,Robot Rick,1
+300,Roger,1
+301,Ron Benson,1
+302,Ruben,1
+303,Samantha,1
+304,Scary Brandon,1
+305,Scary Glenn,1
+306,Scary Terry,1
+307,Scroopy Noopers,1
+308,Scropon,2
+309,Scrotian,4
+310,Self-Congratulatory Jerry,1
+311,Shimshamian,3
+312,Shlaammi,1
+313,Shleemypants,2
+314,Shmlamantha Shmlicelli,1
+315,Shmlangela Shmlobinson-Shmlower,1
+316,Shmlona Shmlobinson,1
+317,Shmlonathan Shmlower,1
+318,Shmlony Shmlicelli,1
+319,Shmooglite Runner,1
+320,Shnoopy Bloopers,1
+321,Shrimply Pibbles,1
+322,Simple Rick,1
+323,Slaveowner,1
+324,Sleepy Gary,1
+325,Slick Morty,1
+326,Slippery Stair,2
+327,Slow Mobius,1
+328,Slow Rick,1
+329,Snuffles (Snowball),8
+330,Solicitor Rick,2
+331,Squanchy,3
+332,Stacy,1
+333,Stair Goblin,3
+334,Stealy,1
+335,Steve,1
+336,Steven Phillips,1
+337,Stu,1
+338,Summer Smith,7
+339,Summer Smith,1
+340,Supernova,1
+341,Taddy Mason,1
+342,Taint Washer,1
+343,Tammy Guetermann,2
+344,Tammy Guetermann,5
+345,Teacher Rick,1
+346,Terry,1
+347,President Curtis,5
+348,The President of the Miniverse,1
+349,The Scientist Formerly Known as Rick,1
+350,Thomas Lipkip,1
+351,Three Unknown Things,1
+352,Tinkles,1
+353,Tiny Rick,1
+354,Toby Matthews,1
+355,Todd Crystal,1
+356,Tom Randolph,1
+357,Tommy's Clone,1
+358,Tophat Jones,3
+359,Tortured Morty,1
+360,Toxic Morty,1
+361,Toxic Rick,1
+362,Traflorkian,5
+363,Trandor,1
+364,Tree Person,1
+365,Tricia Lange,5
+366,Trunk Morty,1
+367,Trunk Man,2
+368,Truth Tortoise,1
+369,Tusked Assassin,1
+370,Two Guys with Handlebar Mustaches,1
+371,Tumblorkian,1
+372,Unity,1
+373,Unmuscular Michael,1
+374,Vampire Master,1
+375,Vance Maximus,1
+376,Veronica Ann Bennet,1
+377,Voltematron,1
+378,Wall Crawling Rick,1
+379,Wedding Bartender,1
+380,Unknown Rick,2
+381,Woman Rick,1
+382,Worldender,1
+383,Yaarb,1
+384,Yellow Headed Doctor,1
+385,Yellow Shirt Rick,1
+386,Zarbadar Gloonch,2
+387,Zarbadar's Mytholog,1
+388,Zeep Xanflorp,1
+389,Zeta Alpha Rick,4
+390,Zick Zack,1
+391,Uncle Steve,1
+392,Bearded Morty,2
+393,Roy,1
+394,Davin,2
+395,Greebybobe,4
+396,Scary Teacher,1
+397,Fido,1
+398,Accountant dog,1
+399,Tiny-persons advocacy group lawyer,1
+400,Giant Judge,1
+401,Morty Jr's interviewer,1
+402,Guy from The Bachelor,1
+403,Corn detective,1
+404,Michael Jackson,1
+405,Trunkphobic suspenders guy,4
+406,Spiderweb teddy bear,1
+407,Regular Tyrion Lannister,1
+408,Quick Mystery Presenter,1
+409,Mr. Sneezy,1
+410,Two Brothers,1
+411,Alien Mexican Armada,1
+412,Giant Cat Monster,1
+413,Old Women,1
+414,Trunkphobic guy,1
+415,Pro trunk people marriage guy,1
+416,Muscular Mannie,1
+417,Baby Legs Chief,1
+418,Mrs. Sullivan's Boyfriend,1
+419,Plutonian Hostess,1
+420,Plutonian Host,1
+421,Rich Plutonian,1
+422,Rich Plutonian,1
+423,Synthetic Laser Eels,1
+424,Pizza-person,1
+425,Pizza-person,1
+426,Greasy Grandma,1
+427,Phone-person,1
+428,Phone-person,1
+429,Chair-person,1
+430,Chair-person,1
+431,Chair-homeless,1
+432,Chair-waiter,1
+433,Doopidoo,1
+434,Super Weird Rick,1
+435,Pripudlian,4
+436,Giant Testicle Monster,2
+437,Michael,1
+438,Michael's Lawyer,1
+439,Veterinary,1
+440,Veterinary Nurse,1
+441,Bearded Jerry,1
+442,Shaved Head Jerry,1
+443,Tank Top Jerry,1
+444,Pink Polo Shirt Jerry,1
+445,Jerryboree Keeper,1
+446,Jerryboree Receptionist,1
+447,Anchor Gear,1
+448,Gear Cop,1
+449,Roy's Mum,1
+450,Roy's Wife,1
+451,Roy's Son,1
+452,Simon,1
+453,Vampire Master's Assistant,1
+454,Arbolian Mentirososian,3
+455,St. Gloopy Noops Nurse,1
+456,Nano Doctor,1
+457,Funny Songs Presenter,1
+458,Tax Attorney,1
+459,Butthole Ice Cream Guy,1
+460,Traflorkian Journalist,1
+461,Communication's Responsible Rick,1
+462,Teleportation's Responsible Rick,1
+463,SEAL Team Rick,1
+464,SEAL Team Rick,1
+465,SEAL Team Rick,1
+466,SEAL Team Rick,1
+467,Morphizer-XE Customer Support,1
+468,Morphizer-XE Customer Support,1
+469,Morphizer-XE Customer Support,1
+470,Alien Spa Employee,1
+471,Little Voltron,1
+472,Baby Rick,1
+473,Bartender Morty,1
+474,Dancer Cowboy Morty,1
+475,Dancer Morty,1
+476,Flower Morty,1
+477,Hairdresser Rick,1
+478,Journalist Rick,1
+479,Private Sector Rick,1
+480,Purple Morty,1
+481,Retired General Rick,1
+482,Secret Service Rick,1
+483,Steve Jobs Rick,1
+484,Sheik Rick,1
+485,Modern Rick,1
+486,Tan Rick,1
+487,Visor Rick,1
+488,Colonial Rick,1
+489,P-Coat Rick,1
+490,Chang,1
+491,Dr. Eleanor Arroway,1
+492,Varrix,1
+493,Secretary of the Interior,1
+494,Crystal Poacher,1
+495,Crystal Poacher,1
+496,Crystal Poacher,1
+497,Hologram Rick,1
+498,Fascist Rick,1
+499,Fascist Morty,1
+500,Fascist Mr. President,1
+501,Fascist Rick’s Clone,1
+502,Revolio Clockberg Jr.,1
+503,Fascist Shrimp Rick,1
+504,Fascist Shrimp Rick’s Clone,1
+505,Fascist Shrimp Morty,1
+506,Fascist Shrimp SS,1
+507,Fascist Teddy Bear Rick,1
+508,Fascist Teddy Bear Rick’s Clone,1
+509,Bully,1
+510,Anchorman,1
+511,Anchorwoman,1
+512,Morty’s Lawyer,1
+513,Judge,1
+514,Public Opinion Judge,1
+515,Caterpillar Mr. Goldenfold,1
+516,Wasp Rick,1
+517,Wasp Rick’s Clone,1
+518,Wasp Morty,1
+519,Wasp Summer,1
+520,Wasp Jerry,1
+521,Wasp Beth,1
+522,Caterpillar Mr. Goldenfold’s Larvae,1
+523,Boglin,1
+524,Kirkland Brand Mr. Meeseeks,1
+525,Glootie,1
+526,Danny Publitz,1
+527,Mothership Intern,1
+528,Monogatron Leader,1
+529,Lizard,1
+530,Deliverance,1
+531,Tony,1
+532,Tony’s Wife,1
+533,Monogatron Queen,1
+534,Tony's Dad,1
+535,Jeff,1
+536,Josiah,1
+537,Maggie,1
+538,Priest Witherspoon,1
+539,Richard,1
+540,Running Bird,1
+541,Secretary at Tony's,1
+542,Mountain Sweat Jerry,1
+543,Vermigurber,1
+544,Miles Knightly,1
+545,Heist-Con Receptionist,1
+546,Angie Flint,1
+547,Glar,1
+548,Truckula,1
+549,Snake Arms,1
+550,Double Microwawe,1
+551,Monitor Lord,1
+552,Key Catcher,1
+553,The Shapeshiftress,1
+554,Heistotron,1
+555,Randotron,1
+556,Hephaestus,1
+557,Ventriloquiver,1
+558,Elon Tusk,1
+559,Gramuflackian Anchorman,1
+560,Gramuflackian General,1
+561,Netflix Executive,1
+562,Balthromaw,1
+563,The Wizard,1
+564,Talking Cat,1
+565,Debrah,1
+566,Debrah’s Partner,1
+567,Michael,1
+568,Slut Dragon,1
+569,Shadow Jacker,1
+570,Chachi,1
+571,Slippy,1
+572,Robot Snake,1
+573,Snake Hitler,1
+574,Snake Lincoln,1
+575,Snake Resistance Robot,1
+576,Snake Linguist,1
+577,Snake Terminator,1
+578,Snake Soldier,1
+579,Snake with Legs,1
+580,Secret Service Snake,1
+581,Anchosnake,1
+582,Anchosnake,1
+583,80's snake,1
+584,Bar Customer,1
+585,Bartender,1
+586,PC Basketball Player,1
+587,Cavesnake,1
+588,Pet Shop Employee,1
+589,Snake Reporter,1
+590,High Pilot,1
+591,High Pilot,1
+592,Phoenixperson,3
+593,Tickets Please Guy,1
+594,Floaty Bloody Man,1
+595,Floaty Non-Gasm Brotherhood Member,1
+596,Floaty Non-Gasm Brotherhood Member Friend,1
+597,Abradolf Lincler,1
+598,Biblesaurus,1
+599,Birdperson,1
+600,Cats Fan,1
+601,Christmas Storyteller,1
+602,Cookies Guy,1
+603,Crossy,1
+604,Female Scorpion,1
+605,Floaty Bloody Man’s Daughter,1
+606,Goomby,1
+607,Hairspray Fan,1
+608,Jesus Christ,1
+609,Josh,1
+610,Josh's Sister,1
+611,Leah,1
+612,Marcus,1
+613,Mike Johnson,1
+614,Mr. Celery & Friends,1
+615,Musical Fan,1
+616,Phantom of the Opera Fan,1
+617,Phoenixperson,1
+618,Private Smith,1
+619,Professor Sanchez,1
+620,Ramamama Lord,1
+621,Ruth Bader Ginsburg,1
+622,Sarge,1
+623,Shrek The Musical Fan,1
+624,Snuffles,1
+625,Storylord,1
+626,Tammy Guetermann,1
+627,The Concept of Time,1
+628,Beth Smith,1
+629,Summer Smith,1
+630,Morty Smith,1
+631,Rick Sanchez,1
+632,Train Cop,1
+633,Train Cops,1
+634,Train Cops Instructor,1
+635,Darth Poopybutthole,1
+636,Evil Morty,1
+637,Morty’s Disguise,1
+638,Rick’s Disguise,1
+639,Uncle Nibbles,1
+640,Angry Glorzo,1
+641,Bruce,1
+642,Council of Glorzos Member,1
+643,Council of Glorzos Member,1
+644,Old Glorzo,1
+645,Shane,1
+646,Steve,1
+647,Troy,1
+648,Crystal Dealers Boss,1
+649,Crystal Dealer,1
+650,Crystal Dealer,1
+651,Crystal Dealer,1
+652,SWAT Officer,1
+653,Plane Crash Survivor,1
+654,Plane Crash Survivor,1
+655,Heroine Keith,1
+656,Impervious to Acid SWAT Officer,1
+657,Johnny Carson,1
+658,Sonia Sotomayor,1
+659,Morty’s Father-in-law,1
+660,Morty’s Mother-in-law,1
+661,Morty’s Girlfriend,1
+662,Gaia,1
+663,Reggie,1
+664,Ticktock,1
+665,Florflock,1
+666,Squeeb,1
+667,Defiance Beth,2
+668,Defiance Squanchette,1
+669,Defiance Doctor,1
+670,New Improved Galactic Federation Guard,1
+671,New Improved Galactic Federation Guard,1
+672,Mr. Nimbus,1
+673,Hoovy,1
+674,Bova,1
+675,Japheth,1
+676,Japheth's Middle Son,1
+677,Japheth's Eldest Son,1
+678,Japheth's Youngest Son,1
+679,Japheth's Grandson,1
+680,Adam,1
+681,Adam's Mother,1
+682,Warlock,1
+683,Evolved Narnian,1
+684,Mr. Nimbus Secretary,1
+685,Evolved Narnian Disguised as Morty,1
+686,Mr. Nimbus' Squid,1
+687,Scarecrow Rick,1
+688,Scarecrow Summer,1
+689,Scarecrow Jerry,1
+690,Scarecrow Morty,1
+691,Scarecrow Beth,1
+692,Glockenspiel Jerry,1
+693,Glockenspiel Beth,1
+694,Glockenspiel Rick,1
+695,Glockenspiel Summer,1
+696,Glockenspiel Morty,1
+697,Wicker Beth,1
+698,Wicker Rick,1
+699,Wicker Morty,1
+700,Wicker Summer,1
+701,Metal Rick,1
+702,Gun Brain Rick,1
+703,Mr. Always Wants to be Hunted,1
+704,Squid Costume Beth,1
+705,Squid Costume Jerry,1
+706,Squid Costume Morty,1
+707,Squid Costume Rick,1
+708,Squid Costume Summer,1
+709,Dracula,1
+710,Steve,1
+711,When Wolf,1
+712,Too Cute to Murder Beth,1
+713,Too Cute to Murder Rick,1
+714,Too Cute to Murder Jerry,1
+715,Too Cute to Murder Morty,1
+716,Too Cute to Murder Summer,1
+717,Planetina,1
+718,Daphne,1
+719,Diesel Weasel,1
+720,Eddie,1
+721,Xing Ho,1
+722,Air Tina-Teer,1
+723,Water Tina-Teer,1
+724,Planetina Buyer,1
+725,Tony Galopagus,1
+726,Sticky,1
+727,Professor Shabooboo,1
+728,Sperm Queen,1
+729,CHUD King,1
+730,Princess Ponietta,1
+731,Naruto Smith,2
+732,Blazen,1
+733,Kathy Ireland,1
+734,Amazing Johnathan,1
+735,Foal Sanchez,1
+736,Spaceman,1
+737,Cirque du Soleil Zumanity Member,1
+738,Cirque du Soleil Zumanity Member,1
+739,Cirque du Soleil Zumanity Member,1
+740,Cirque du Soleil Zumanity Member,1
+741,Cirque du Soleil Zumanity Member,1
+742,Bruce Chutback,1
+743,Alyson Hannigan,1
+744,Cenobite,1
+745,Cenobite,1
+746,Cenobite,1
+747,Cenobite,1
+748,Cenobite,1
+749,Coat Rack Head,1
+750,Mousetrap Nipples,1
+751,Changeformer,1
+752,Changeformer,1
+753,Space Cruiser,2
+754,Coop,1
+755,Dwayne,1
+756,Franklin D. Roosevelt,1
+757,President's General,2
+758,Giant Assassin Hidden in the Statue of Liberty,1
+759,Turkey Morty,1
+760,Turkey Rick,1
+761,Turkey President Curtis,1
+762,Martínez,1
+763,Marvin,1
+764,Jackey,1
+765,Native Alien,1
+766,Pilgrim Alien,1
+767,President Turkey,1
+768,Mary-Lou,1
+769,Big Fat rick,1
+770,Hothead Rick,1
+771,Ricardo Montoya,1
+772,Wrap-it-up Little Rick,1
+773,Yo-yo Rick,1
+774,Voiceoverian,1
+775,Voiceoverian,1
+776,Gotron Pilot,1
+777,Gotron Pilot,1
+778,Gotron Pilot,1
+779,Young Memory Rick,1
+780,Memory Tammy,1
+781,Rick's Garage,1
+782,Memory Squanchy,1
+783,Memory Rick,1
+784,Memory Rick,1
+785,Memory Geardude,1
+786,Birdperson & Tammy's Child,1
+787,Two Crows,2
+788,Mr. Cookie President,1
+789,Nick,1
+790,Harold (Garbage Goober),1
+791,Harold's Wife,1
+792,Alien Crow,1
+793,Alien Crow,1
+794,Samansky,1
+795,Palicki,1
+796,Sarge,1
+797,Slartivartian,1
+798,Ferkusian,1
+799,Morglutzian,1
+800,Super Turkey,1
+801,7+7 Years Old Morty,1
+802,26 Years Old Morty,1
+803,40 Years Old Morty,1
+804,Andy,1
+805,Baby Mouse Skin Morty,1
+806,Metaphor for Capitalism,1
+807,Beth Sanchez,1
+808,Crow Scare,1
+809,Pussifer,1
+810,Stan Lee Rick,1
+811,Re-Build-a-Morty Morty,1
+812,Deformed Morty,1
+813,Crow Horse,1
+814,Bald Rick,1
+815,Punk Rick,1
+816,Party Rick,1
+817,Scar Rick,1
+818,Long Hair Rick,1
+819,Redhead Rick,1
+820,Redhead Morty,1
+821,Gotron,1
+822,Young Jerry,1
+823,Young Beth,1
+824,Young Beth,1
+825,Young Jerry,1
+826,Butter Robot,1
